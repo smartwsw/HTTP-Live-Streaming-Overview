@@ -38,7 +38,7 @@ HTTP流媒体，以一系列叫做媒体段文件的长度10秒左右的小文�
 ](https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/StreamingMediaGuide/HTTPStreamingArchitecture/HTTPStreamingArchitecture.html#//apple_ref/doc/uid/TP40008332-CH101-SW2)
 
 ###你可以按需发送视频或者直播流（加密可选）
-对于已经已经录制好的媒体，苹果提供一个可以将MPEG-4及H.264编码的QuickTime影片，或者AAC、MP3编码的音频文件，制作成媒体段文件和播放列表的免费工具。这些播放列表和媒体段可以用于播放视频或者广播流。
+对于已经录制好的媒体，苹果提供一个可以将MPEG-4及H.264编码的QuickTime影片，或者AAC、MP3编码的音频文件，制作成媒体段文件和播放列表的免费工具。这些播放列表和媒体段可以用于播放视频或者广播流。
 对于直播流，苹果提供一个可以将MPEG-2传输流（包含H.264视频、ACC音频或者MP3音频）制作成段文件和播放列表的免费工具。现在有一系列的硬件和软件编码器能够实时创建搭载了MPEG-4视频和AAC音频的MPEG-2传输流。
 这些工具可以被指定加密你的媒体并生成解密密钥。你可以为你的所有流使用单一密钥、为每个流分配不同密钥或者一组随机生成的随间隔变换的密钥。密钥会被一个可以设置为周期性更改的初始化向量保护。
 
