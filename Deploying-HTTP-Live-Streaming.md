@@ -35,7 +35,7 @@ HTTP实时流可以从一个普通的Web服务器提供服务;无需特殊配置
 配置以下MIME类型HTTP实时流：
 
 文件扩展名|MIME类型
------------------
+---------|--------
 .M3U8|application/x-mpegURL 或 vnd.apple.mpegURL
 .ts|video/MP2T
 
